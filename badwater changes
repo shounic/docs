@@ -1,16 +1,22 @@
+map:
+red force respawns on any blue capture
+
 first point:
 added ramp to cliff
 added small ramp to rock
+
 blue gets 3 seconds of speed boost out of spawn
 red gets 6 seconds of speed boost out of spawn
 
 second point:
 added glass block in alleyway
+
 blue gets 8 seconds of speed boost out of spawn
 red gets 3 seconds of speed boost out of spawn
 
 third point:
 attackers get forward spawn after point B is capped
+
 blue gets 2 seconds of speed boost out of spawn
 red gets 6 seconds of speed boos  out of spawn
 
@@ -20,5 +26,6 @@ rotated concrete cylinders
 reworked sniper nest
 reworked stairwell
 reduced red respawn times
+
 blue gets 6 seconds of speed boost out of spawn
 red gets no speed boost out of spawn
