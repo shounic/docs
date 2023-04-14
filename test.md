@@ -54,6 +54,7 @@
 * caber works fine vs both teams, nothing happens vs a gray
 
 # taunt kills
+* they seem to work fine
 
 # buildings
 tele frags
