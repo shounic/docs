@@ -77,7 +77,8 @@
 
 * dispensers built by gray players will heal gray players
 
-tele frags
+* gray players can't take red or blue teleporters, but can take gray teleporters
+* you can't tele frag red or blue, if you try to telefrag a gray player it breaks
 
 # gamemode objectives
 
