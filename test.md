@@ -13,6 +13,8 @@
 * your own projectiles won't go through a gray teammate
 * can't hurt gray teammates
 * dominations still work
+* bots/training bots can't be gray team, only "real" players
+* no teammate wall hacks
 
 # weapons
 * hits both teams
@@ -36,8 +38,10 @@
 * eviction notice works fine
 * soldier banners work fine for gray teammates
 * shield bash doesn't work
-* gas passer works fine for both teams
+* gas passer works fine for both teams & doesn't affect gray teammates
 * third degree works fine for both teams
+* eternal reward - back stabbing a gray player = no disguise
+* ^ gray backstabbing red or blue works fine
 
 # taunt kills
 
@@ -52,3 +56,4 @@ tele frags
 * you can heal a gray teammate (medigun & crossbow & amputator taunt)
 
 # spy disguise
+* works fine
