@@ -12,6 +12,7 @@
 * you can walk through any red or blue player but not a gray player
 * your own projectiles won't go through a gray teammate
 * can't hurt gray teammates
+* dominations still work
 
 # weapons
 * hits both teams
@@ -29,6 +30,12 @@
 * phlog works fine
 * natascha slow works
 * eureka effect teles you to 0 0 0
+* milk & jarate works on both teams, excludes gray, and you can extinguish teammates on fire
+* airblasted projectiles are fine, can't airblast gray projectile
+* pyro glove doesn't give speed boost
+* eviction notice works fine
+* soldier banners work fine for gray teammates
+* 
 
 # taunt kills
 
