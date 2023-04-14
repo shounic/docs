@@ -63,6 +63,7 @@
 * gray team can attack & walk through both color buildings
 
 * sentries built by gray players target gray & blue and not red
+* sentries built by gray players target gray but won't hurt them
 * sentries built by gray players will hurt red if they get in the way
 
 * normally, a friendly getting in the way of a sentry will just eat the damage
