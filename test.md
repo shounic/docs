@@ -48,7 +48,7 @@
 * gray teammates block projectiles at any range
 * rockets: can hit red at any distance, but can't hit blue at close range
 * pipes and stickies hit fine vs red and blue
-
+* your own stickies collide with themselves
 
 
 # taunt kills
