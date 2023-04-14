@@ -42,6 +42,7 @@
 * third degree works fine for both teams
 * eternal reward - back stabbing a gray player = no disguise
 * ^ gray backstabbing red or blue works fine
+* you can ignite a gray huntsman arrow as pyro
 
 # taunt kills
 
