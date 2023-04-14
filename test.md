@@ -11,6 +11,7 @@
 * bottom left model is blue
 * you can walk through any red or blue player but not a gray player
 * your own projectiles won't go through a gray teammate
+* can't hurt gray teammates
 
 # weapons
 * hits both teams
@@ -25,11 +26,14 @@
 * pyro thrusters: doesn't work on red or blue, pushes gray teammate
 * sandman ball works and also slows
 * shortstop shove doesn't work on red blue or gray
-* 
+* phlog works fine
+* natascha slow works
+* eureka effect teles you to 0 0 0
 
 # taunt kills
 
 # buildings
+tele frags
 
 # gamemode objectives
 
