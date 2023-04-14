@@ -45,6 +45,10 @@
 * you can ignite a gray huntsman arrow as pyro
 * flares: can hit red at any distance, but can't hit blue at close range
 * flares: gray teammates eat it (where it should normally pass through)
+* gray teammates block projectiles at any range
+* rockets: can hit red at any distance, but can't hit blue at close range
+* pipes and stickies hit fine vs red and blue
+
 
 
 # taunt kills
