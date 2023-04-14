@@ -36,7 +36,8 @@
 * eviction notice works fine
 * soldier banners work fine for gray teammates
 * shield bash doesn't work
-* gas passer works fine
+* gas passer works fine for both teams
+* third degree works fine for both teams
 
 # taunt kills
 
