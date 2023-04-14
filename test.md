@@ -53,6 +53,9 @@
 * gray scout bonk -> no miss particle effects (but the slow works)
 * caber works fine vs both teams, nothing happens vs a gray
 
+* crit rockets on gray become purple, because monoculous??
+* monoculous is not friendly if you are gray
+
 # taunt kills
 * they seem to work fine
 * except scorch shot, + the flare strangeness with people being close or far 
@@ -110,3 +113,5 @@ mp_friendlyfire 1 works on gray team
 * doomsday: if gray team drops the flag, it stays neutral and a red or blue player can pick it up
 * PD: gray counts for blue but can't cap
 * PD: gray team leader can heal other grays
+* can't push cart in pl or plr
+* mannpower dropped powerups stay team specific for a bit, gray team drops a gray team only pickup
