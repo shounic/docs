@@ -53,7 +53,7 @@
 * gray scout bonk -> no miss particle effects (but the slow works)
 * caber works fine vs both teams, nothing happens vs a gray
 
-* crit rockets on gray become purple, because monoculous??
+* crit rockets on gray become purple, because monoculous?? `tf_projectile_rocket.cpp line 65`
 * monoculous is not friendly if you are gray
 
 # taunt kills
