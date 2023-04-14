@@ -10,6 +10,7 @@
 * blue targetID
 * bottom left model is blue
 * you can walk through any red or blue player but not a gray player
+* your own projectiles won't go through a gray teammate
 
 # weapons
 * hits both teams
@@ -18,6 +19,8 @@
 * __ blast damage
 * _____ short circuit
 * holiday punch doesn't do anything to a gray teammate
+* sandvich works
+* disiciplinary action works
   
 
 # buildings
