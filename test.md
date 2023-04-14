@@ -35,7 +35,8 @@
 * pyro glove doesn't give speed boost
 * eviction notice works fine
 * soldier banners work fine for gray teammates
-* 
+* shield bash doesn't work
+* gas passer works fine
 
 # taunt kills
 
