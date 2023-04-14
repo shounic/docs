@@ -79,6 +79,7 @@
 
 * gray players can't take red or blue teleporters, but can take gray teleporters
 * you can't tele frag red or blue, if you try to telefrag a gray player it breaks
+* if you turn on `sm_cvar tf_avoidteammates 0` and try to telefrag a red or blue player, you get stuck in them instead
 
 # gamemode objectives
 
