@@ -21,14 +21,20 @@
 * holiday punch doesn't do anything to a gray teammate
 * sandvich works
 * disiciplinary action works
-  
+* mantreads: doesn't work on gray teammate, doesn't work on any red or blue players
+* pyro thrusters: doesn't work on red or blue, pushes gray teammate
+* sandman ball works and also slows
+* shortstop shove doesn't work on red blue or gray
+* 
+
+# taunt kills
 
 # buildings
 
 # gamemode objectives
 
 # medic
-* can't heal anyone
+* can't heal anyone (you can heal gray teammates)
 * crossbow hurts both teams
 * you can heal a gray teammate (medigun & crossbow & amputator taunt)
 
