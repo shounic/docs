@@ -61,12 +61,21 @@
 * red sentry will attack gray
 * blue sentry won't
 * gray team can attack & walk through both color buildings
+* gray team can't hurt gray buildings
 
 * sentries built by gray players target gray & blue and not red
 * sentries built by gray players target gray but won't hurt them
 * sentries built by gray players will hurt red if they get in the way
+* sentries built by gray players do not target and do not hurt gray buildings
 
 * normally, a friendly getting in the way of a sentry will just eat the damage
+
+* wrangler auto aim locks for red and blue but not gray
+* sentry rockets: can hit red at any distance, but can't hit blue at close range
+* 
+* gray players can sap red and blue but not gray buildings
+
+* dispensers built by gray players will heal gray players
 
 tele frags
 
