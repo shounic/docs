@@ -115,3 +115,8 @@ mp_friendlyfire 1 works on gray team
 * PD: gray team leader can heal other grays
 * can't push cart in pl or plr
 * mannpower dropped powerups stay team specific for a bit, gray team drops a gray team only pickup
+
+
+7:01 PM
+Ender-Damien
+technically all halloween bosses use the autoassign/grey team, you can tell if you look in the tf2 shareddefs (line 40)
