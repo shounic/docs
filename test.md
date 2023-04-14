@@ -43,6 +43,9 @@
 * eternal reward - back stabbing a gray player = no disguise
 * ^ gray backstabbing red or blue works fine
 * you can ignite a gray huntsman arrow as pyro
+* flares: can hit red at any distance, but can't hit blue at close range
+* flares: gray teammates eat it (where it should normally pass through)
+
 
 # taunt kills
 
