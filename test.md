@@ -72,8 +72,10 @@
 
 * wrangler auto aim locks for red and blue but not gray
 * sentry rockets: can hit red at any distance, but can't hit blue at close range
-* 
+
 * gray players can sap red and blue but not gray buildings
+* red/blue players can't sap gray buildings
+* blue players disguised as red will still get shot, but red players disguising as blue won't
 
 * dispensers built by gray players will heal gray players
 
