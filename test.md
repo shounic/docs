@@ -58,6 +58,11 @@
 * except scorch shot, + the flare strangeness with people being close or far 
 
 # buildings
+* red sentry will attack gray
+* blue sentry won't
+* gray team can attack & walk through both color buildings
+
+
 tele frags
 
 # gamemode objectives
