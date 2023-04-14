@@ -86,8 +86,6 @@
 * a red or blue player shooting cow mangler charged shot will disabled a gray building
 * gray charged shot does not work on gray sentries
 
-# gamemode objectives
-
 # medic
 * can't heal anyone (you can heal gray teammates)
 * crossbow hurts both teams
@@ -96,5 +94,19 @@
 # spy disguise
 * works fine
 
-
 mp_friendlyfire 1 works on gray team
+
+# skeletons
+* ignore gray players but gray players can still hurt them
+
+# bot
+* attacks gray players
+
+# gamemode objectives
+* ctf: instant cap on both teams
+* gray players can't pick up the gray intel
+* gray players can't block captures or cap points
+* doomsday: gray can cap the flag but then nothing happens
+* doomsday: if gray team drops the flag, it stays neutral and a red or blue player can pick it up
+* PD: gray counts for blue but can't cap
+* PD: gray team leader can heal other grays
