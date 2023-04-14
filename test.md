@@ -21,7 +21,7 @@
 * _____ short circuit
 * holiday punch doesn't do anything to a gray teammate
 * sandvich works
-* disiciplinary action works
+* disiciplinary action works on gray teammates, vs red and blue it hurts + speed boosts them
 * mantreads: doesn't work on gray teammate, doesn't work on any red or blue players
 * pyro thrusters: doesn't work on red or blue, pushes gray teammate
 * sandman ball works and also slows
