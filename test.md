@@ -51,7 +51,7 @@
 * your own stickies collide with themselves (normally, your stickies don't collide with itself, and also don't collide with stickies of the enemy team)
 * quickiebomb can destroy blue and red stickies but not gray
 * gray scout bonk -> no miss particle effects (but the slow works)
-* 
+* caber works fine vs both teams, nothing happens vs a gray
 
 # taunt kills
 
