@@ -6,7 +6,10 @@
 * you can walk into any spawn (but you can't open spawn doors)
 * you show up as spectator in scoreboard
 * you can't walk through your own "unassigned teammates" but you can't damage them either
-* a bunch of effects are red/blue mixed (ie red viewmodels blue medigun beam, blue beam red uber)
+* a bunch of effects are red/blue mixed (ie red viewmodels blue medigun beam, blue beam red uber) (which 
+* blue targetID
+* bottom left model is blue
+* you can walk through any red or blue player but not a gray player
 
 # weapons
 * hits both teams
@@ -14,8 +17,8 @@
 * __ airblast
 * __ blast damage
 * _____ short circuit
-   
-
+* holiday punch doesn't do anything to a gray teammate
+  
 
 # buildings
 
@@ -24,6 +27,6 @@
 # medic
 * can't heal anyone
 * crossbow hurts both teams
-* you can heal a gray teammate (medigun & crossbow)
+* you can heal a gray teammate (medigun & crossbow & amputator taunt)
 
 # spy disguise
