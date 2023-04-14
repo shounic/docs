@@ -55,6 +55,7 @@
 
 # taunt kills
 * they seem to work fine
+* except scorch shot, + the flare strangeness with people being close or far 
 
 # buildings
 tele frags
@@ -68,3 +69,6 @@ tele frags
 
 # spy disguise
 * works fine
+
+
+mp_friendlyfire 1 works on gray team
