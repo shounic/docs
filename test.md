@@ -83,6 +83,9 @@
 * you can't tele frag red or blue, if you try to telefrag a gray player it breaks
 * if you turn on `sm_cvar tf_avoidteammates 0` and try to telefrag a red or blue player, you get stuck in them instead
 
+* a red or blue player shooting cow mangler charged shot will disabled a gray building
+* gray charged shot does not work on gray sentries
+
 # gamemode objectives
 
 # medic
