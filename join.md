@@ -1,1 +1,1 @@
-steam://connect/snc.game.nfoservers.com:27015/wwww
+(click me)[steam://connect/snc.game.nfoservers.com:27015/wwww]
