@@ -28,4 +28,4 @@ first 2 picked due to sheer popularity, rest were picked for being notoriously s
 
 # when happen?
 
-26th May + 3 ish days 
+26th May + 2/3 ish days | idk i'll react as it happens, maybe it will be better to do more or less
