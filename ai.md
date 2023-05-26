@@ -1,4 +1,4 @@
-# what is that robot on stream?
+# what is that robot voice on stream?
 it's `"gpt4-x-alpaca-13b-ggml-q4_0"` running locally on my computer. i have no ability to train or alter it in any form besides writing a better prompt and giving it blacklisted words or something. 
 
 it's just the stock LLM file + i added some bs on top - a yt chat reader, tts, & output to OBS for the subtitles and the robot cat character. 
