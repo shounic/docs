@@ -11,3 +11,5 @@ it's just the stock LLM file + i added some bs on top - a yt chat reader, tts, &
 5. when the message is done generating, it will speak the result with TTS, but it will first read out the yt chat message it's responding to
 6. the cycle is complete. ~~with this character's death, the thread of prophecy is severed. Restore a saved game to restore the weave of fate, or persist in the doomed world you have created.~~
 7. it will now start waiting for 3 messages again, starting from when it finished talking and do the whole thing again
+
+the bot can read superchats and member joins but it doesn't give them any extra priority (yet... c:<)
