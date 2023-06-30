@@ -7,7 +7,32 @@ whoever you are spectating when you respawn becomes your spawn point and you tel
 # HOW DO I JOIN THE SERVER / PARTICIPATE IN THE EXPERIMENT?
 join the torture hole -> https://discord.gg/E2zYGKAH3q
 
+join the torture hole -> https://discord.gg/E2zYGKAH3q
+
+join the torture hole -> https://discord.gg/E2zYGKAH3q
+
+join the torture hole -> https://discord.gg/E2zYGKAH3q
+
+join the torture hole -> https://discord.gg/E2zYGKAH3q
+
+join the torture hole -> https://discord.gg/E2zYGKAH3q
+
+join the torture hole -> https://discord.gg/E2zYGKAH3q
+
+# how to use plugin
+
+when you are dead you can use a button bound to `+attack3` (default: middle mouse) to toggle spawn on teammate enabled or disabled.
+
+alternatively you can type into chat `/tms_on` or `/tms_off` or `/tms_tog`
+
+`/tms_help` for help
+
+
 # faq
+
+> is this going to be a youtube video?
+
+yes
 
 > can you spawn on spies / disguised spies / cloaked spies?
 
