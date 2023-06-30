@@ -49,3 +49,11 @@ you spawn at home like normal tf2
 > since the person you're spectating needs to be alive at the moment you spawn, what happens if they die?
 
 you spawn at home like normal tf2
+
+> everyone is going to go behind!!
+
+ok
+
+> you should change the plugin to do `this other thing` or add `this specific restriction` instead
+
+ok
