@@ -38,6 +38,10 @@ yes
 
 yes
 
+> can you spawn on friendly buildings?
+
+no
+
 > what happens if you spectate the cart?
 
 the plugin tries to spawn you on the last valid player you spectated. if not, you spawn at home like normal tf2
