@@ -44,15 +44,15 @@ no
 
 > what happens if you spectate the cart?
 
-the plugin tries to spawn you on the last valid player you spectated. if not, you spawn at home like normal tf2
+the plugin tries to spawn you on the last valid player you spectated. if that's not valid, you spawn at home like normal tf2
 
 > what happens if you're floating in the air looking at the map?
 
-the plugin tries to spawn you on the last valid player you spectated. if not, you spawn at home like normal tf2
+the plugin tries to spawn you on the last valid player you spectated. if that's not valid, you spawn at home like normal tf2
 
 > since the person you're spectating needs to be alive at the moment you spawn, what happens if they die?
 
-the plugin tries to spawn you on the last valid player you spectated. if not, you spawn at home like normal tf2
+the plugin tries to spawn you on the last valid player you spectated. if that's not valid, you spawn at home like normal tf2
 
 > everyone is going to go behind!!
 
