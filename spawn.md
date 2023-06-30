@@ -9,14 +9,18 @@ join the torture hole -> https://discord.gg/E2zYGKAH3q
 
 # faq
 
-can you spawn on spies / disguised spies / cloaked spies?
+> can you spawn on spies / disguised spies / cloaked spies?
 
---- yes
+yes
 
-what happens if you spectate the cart?
+> what happens if you spectate the cart?
 
---- you spawn at home like normal tf2
+you spawn at home like normal tf2
 
-what happens if you're floating in the air looking at the map?
+> what happens if you're floating in the air looking at the map?
 
---- you spawn at home like normal tf2
+you spawn at home like normal tf2
+
+> since the person you're spectating needs to be alive at the moment you spawn, what happens if they die?
+
+you spawn at home like normal tf2
