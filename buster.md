@@ -39,3 +39,8 @@ merc park<br>
 dustbowl<br>
 junction<br>
 egypt<br>
+
+**OTHER MAPS?**
+<br>
+if you want to suggest a PL or AD map, i don't want to stream for 20 hours. if it's a map outside of that, the plugin doesn't support it so no.
+<br><br>
