@@ -33,7 +33,7 @@ goldrush<br>
 forntier<br>
 barnblitz<br>
 thunder mountain<br>
-<br><br>
+<br>
 mossrock<br>
 merc park<br>
 dustbowl<br>
