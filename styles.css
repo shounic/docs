@@ -1,14 +1,14 @@
 @font-face {
-	font-family: "TF2 Build";
-	src: url("./tf2build.ttf");
+  font-family: "TF2 Build";
+  src: url("./tf2build.ttf");
 }
 
 /* configurable vars here */
 * {
   --theme-color: #304854;
-
+  
   --that-white-bg: #e9e7e9;
-
+  
   --tier-normal: #B2B2B2;
   --tier-unique: #FFD700;
   --tier-vintage: #476291;
@@ -20,7 +20,7 @@
   --tier-decorated: #FAFAFA;
   --tier-community: #70B04A;
   --tier-valve: #A50F79;
-
+  
   --content-wall-padding: .6em;
 }
 
@@ -35,7 +35,7 @@
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4{
-	margin: 0;
+  margin: 0;
 }
 
 .tf2build {
@@ -43,11 +43,11 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4{
 }
 
 html, body {
-	margin: 0;
+  margin: 0;
   height: 100%;
 }
 body {
-	font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 a.button {
@@ -63,28 +63,28 @@ a:hover.button {
 }
 
 p {
-	margin: 0;
+  margin: 0;
 }
 
 .content {
   /* how do i center div */
-	display: -webkit-flex;
-	display: flex;
-
-	align-items: start;
-	justify-content: center;
+  display: -webkit-flex;
+  display: flex;
+  
+  align-items: start;
+  justify-content: center;
   flex-direction: column;
-
-	min-height: 100vh;
+  
+  min-height: 100vh;
   /* background: #304854; */
-	background: linear-gradient(var(--theme-color) 50%, #162025);
-	/* background: linear-gradient(#373839, #252525); */
+  background: linear-gradient(var(--theme-color) 50%, #162025);
+  /* background: linear-gradient(#373839, #252525); */
   color: whitesmoke;
 }
 
 .header-title {
   background: var(--tier-collector);
-
+  
   padding: 0.5em;
   margin: .2em var(--content-wall-padding);
   margin-top: 2em;
@@ -92,22 +92,22 @@ p {
 
 .box {
   /* #232632 */
-	background: var(--that-white-bg);
+  background: var(--that-white-bg);
   color: black;
-	/* min-width: 30em; */
-	padding: 1em;
-
+  /* min-width: 30em; */
+  padding: 1em;
+  
   margin: .25em var(--content-wall-padding);
 }
 
 .box-faq {
   animation: scrolldown 1s forwards ease-in;
   animation-delay: .4s;
-
+  
   max-height: 0vh;
   padding-top: 0%;
   padding-bottom: 0%;
-
+  
   overflow-y: hidden;
 }
 
@@ -127,7 +127,7 @@ p {
 }
 
 .faq-a {
-
+  
 }
 
 .bg-genuine {
