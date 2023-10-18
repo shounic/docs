@@ -3,5 +3,6 @@ hi. we created a crash handler: if the server crashes, it'll make everyone recon
 
 i need to test both of these things with real people now
 
-1st test: connect 103.163.186.60:27015
-2nd test: the real 100 player server
+update: the above was tested and 1 perhaps could be improved a bit, the other one seems to work fine
+
+now testing zi maps on 100 players
