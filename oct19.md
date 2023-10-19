@@ -6,4 +6,5 @@ on the test server:
 4. can it handle 100 players?
 
 on the "live" 100 player server:
-1. testing a 3x3 attack defend map made FOR 100 players 👀
+1. testing a 3x4 attack defend map made FOR 100 players 👀
+(note to sho, update the chat command!)
