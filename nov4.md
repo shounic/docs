@@ -1,3 +1,5 @@
+**how do i play? go here:** https://discord.gg/E2zYGKAH3q
+
 experiment time! how many cheaters can beat how many humans?
 
 
