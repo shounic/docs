@@ -7,7 +7,7 @@ players don't need to do anything special, we have a plugin to simulate cheats. 
 
 regular players won't have voice chat but they will have text chat. cheaters will be in a discord voice chat :D (subsequently if you get randomly picked to be a cheater but you can't speak i might reroll it)
 
-
+regarding maps: we will just play badwater. i understand it's boring to just play one map, but a different map will literally change the meta and how things play out, so for the sake of consistency i rather just stick to one map. every new map it kinda requires you to retest and revalidate the cheater team threshold too so it's just a lot of time needed, that i don't think i have atm. i can always do this again on more maps if people are interested. 
 
 faq:
 
