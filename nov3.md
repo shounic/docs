@@ -3,3 +3,5 @@ the next video i'm making is an experiment to find out how many cheaters it take
 yesterday's stream i tested out the plugins and those all work fine, but it seems that the second server i wanted to use for this, the server itself is insufficient (it randomly kicked everyone from the game (read: null routing)) so i have procured another server and now i need to just test and see if that works well, if it'll do anything weird, etc. as a result we're just fucking around on tf2. 
 
 i will probably turn on this wacky bhop plugin that also removes the speedcap and go wild. ye that's it.
+
+server ip: 45.62.160.77:27015
