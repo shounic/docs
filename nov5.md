@@ -2,7 +2,7 @@
 
 **what's different since yesterday?** yesterday cheaters on BLU took like 5 hours so we ended up just running out of steam before i could do a proper run with cheaters on RED, so this is what this is. today we run cheaters on RED. also depending on player/community morale i might do another BLU cheaters run but idk lol.
 
-**here is yesterday's doc copy and pasted for people who are completely clueless:**
+**here is yesterday's info copy and pasted for people who are completely clueless:**
 
 
 how many cheaters can beat how many humans?
