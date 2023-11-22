@@ -1,6 +1,6 @@
 **summary**
 
-chat will democractically make a koth map
+chat will democractically make a 24 player koth map
 
 i tried to schedule the stream early but this is probably going to take multiple streams or something idk. if it happens it'll be in subsequent days
 
