@@ -2,7 +2,7 @@
 
 chat will democractically make a 24 player koth map
 
-i tried to schedule the stream early but this is probably going to take multiple streams or something idk. if it happens it'll be in subsequent days
+nov22nd: day 1      nov24th: day 2
 
 **how it work?**
 
