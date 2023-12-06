@@ -4,7 +4,7 @@ btw if smissmas releases i will have to immediately leave
 
 chat will democractically make some sort of map for 100 players (seriously). game mode to be voted on.
 
-dec6th: day 1      dec7th onward: extra days if needed (probably needed)
+dec6th: day 1 . . . . . . . . dec7th onward: extra days if needed (probably needed)
 
 **how it work?**
 
