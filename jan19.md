@@ -1,0 +1,3 @@
+pl_dbz has it's art pass done and is on the server now. but with its release i wanted to also put up a few custom maps onto trenches like a map pack to give people more stuff to play. yesterday we played maps people have suggested. we ended up finding 6 maps that seem pretty good, so today i want to replay them get a better feel for them, since we only played 2 rounds of them yesterday. are they truly worth adding to the server? we'll see
+
+besides replaying the maps, depending on how replaying the maps goes, i _might_ go look at map suggestions again and try more stuff but that'll be decided in the moment.
