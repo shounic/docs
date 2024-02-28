@@ -12,7 +12,7 @@ every class plays every other class
 
 koth king
 
-
+submit a prediction :) https://forms.gle/B5avsGbspZezstKX9
 
 #### --- faq
 
