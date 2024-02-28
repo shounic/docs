@@ -2,7 +2,9 @@ server: connect 45.62.160.71:27999 (or find a server called "shounic test" in yo
 
 
 100 player class wars
+
 every class plays every other class
+
 koth king
 
 
