@@ -18,3 +18,8 @@ submit a prediction :) https://forms.gle/B5avsGbspZezstKX9
 
 WHY NOT PLAY UPWARD / BADWATER / MY FAVORITE MAP?
 > we have to play 36 games to have every class have fought each other. playing an asymmetrical mode will double that. that's a lot to do bro my brain's gonna melt
+
+#### --- experiment announcement/organization discord
+if you enjoy participating you should join this to get notified for future events :) https://discord.gg/E2zYGKAH3q
+
+i keep having to do experiments that involve 100 players so i gotta plug this now...
