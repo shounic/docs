@@ -4,4 +4,4 @@ the big part is that i think given anti cheat is kinda unrealistic for them to f
 
 question 1 is if this is even worth making into a video, but i've talked to other youtubers and they feel like this is worth saying so maybe? to me i feel like i can't discount the fact that people are actually mostly aware of this and they feel the risk is worth taking? idk?
 
-if the answer is yes to the above then the rest of the stream would be me arguing with chat to basically construct a big flow chart that'd basically be the video i end up publishing, but just more polished and explaining my thoughts in greater depth. 
+if the answer is yes it's worth putting out there, then the rest of the stream would be me arguing with chat to basically construct a big flow chart that'd basically be the video i end up publishing, but just more polished and explaining my thoughts in greater depth. 
