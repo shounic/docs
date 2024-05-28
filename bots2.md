@@ -1,0 +1,1 @@
+i have basically finished writing out what i would want to say and cover for the upcoming video about the bot situation. i have asked a few people to read it and everyone says it fine, so i think it's time to show stream and see if anyone has any feedback or adjustments they want to suggest
