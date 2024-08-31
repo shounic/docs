@@ -32,6 +32,8 @@ concerns:
 how to:
 it just automatically applies to everyone, no toggle/equip is setup yet. just right click a building as engie
 
+bug: dispenser healing range is not updated
+
 # kockback minigun
 
 concerns:
