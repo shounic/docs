@@ -13,7 +13,7 @@ but - even if you toggle it on, it won't work if you have the booties equipped. 
 
 
 concerns:
-- doesn't give it back after 1 throw?
+- doesn't give it back after 1 throw? - chat decided it should be 15 seconds
 - can't cloak when it's active?
 - drains cloak? Probably shouldn't?
 
