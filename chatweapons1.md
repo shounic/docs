@@ -21,6 +21,9 @@ how to:
 press reload to throw sapper
 no equip/toggle yet
 
+notes:
+change behavior: it should attach to the nearest building on throw and not any of these other cringe shit
+
 # building kick
 
 concerns:
