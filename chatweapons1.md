@@ -30,7 +30,7 @@ concerns:
 - should it be kickable off edges
 
 how to:
-it just automatically applies to everyone, no toggle/equip is setup yet
+it just automatically applies to everyone, no toggle/equip is setup yet. just right click a building as engie
 
 # kockback minigun
 
