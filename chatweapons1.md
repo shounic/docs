@@ -42,6 +42,8 @@ concerns:
 how to:
 just equip the stock minigun as heavy (stock stock, no reskins or strange etc)
 
+fix: more horizontal knockback
+
 # cluster rockets
 
 how to:
