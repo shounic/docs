@@ -1,55 +1,23 @@
 server info: connect 45.62.160.71:27999 (if it doesn't work then it means shounic didn't start the server yet. wait a sec!!)
 
-read the rest of the document for instructions on how to use each of the new weapons/mechanics. also it's a technical bug test, tell shounic if you broke something. 
+read the rest of the document for instructions on how to use each of the new weapons/mechanics.
 
 # gunboats demo
+gunboats on demo, equipped in the primary slot. type !gb or /gb in chat
 
-how to:
-type !gb or /gb in chat
-
-but - even if you toggle it on, it won't work if you have the booties equipped. just equip one of the grenade launchers
+keep in mind though even if you toggle it on, it won't work if you have the booties equipped. just equip one of the grenade launchers
 
 # sliding sapper
-
-
-concerns:
-- doesn't give it back after 1 throw? - chat decided it should be 15 seconds
-- can't cloak when it's active?
-- drains cloak? Probably shouldn't?
-
-how to:
-press reload to throw sapper
-no equip/toggle yet
-
-notes:
-change behavior: it should attach to the nearest building on throw (instead of existing behavior) + 15 s recharge
+press reload to throw sapper. if you run into problems use the stock sapper
 
 # building kick
+when you right click a sentry as engie, you will kick it forward instead. type /sk in chat to toggle it on or off
 
-concerns:
-- should it be kickable off edges
-
-how to:
-it just automatically applies to everyone, no toggle/equip is setup yet. just right click a building as engie
-
-bug: dispenser healing range is not updated
-
-# kockback minigun
-
-concerns:
-- are the angles and knockback rates okay
-
-how to:
-just equip the stock minigun as heavy (stock stock, no reskins or strange etc)
-
-fix: more horizontal knockback? maybe not
+# knockback minigun
+minigun applies knockback opposite the direction you are facing when you fire it. equip the stock minigun as heavy (stock stock, no reskins or strange etc)
 
 # cluster rockets
-
-how to:
-just equip the stock rocket launcher as soldier (stock stock, no reskins or strange etc)
+on rocket explode, 3 pipes are spawned. just equip the stock rocket launcher as soldier (stock stock, no reskins or strange etc)
 
 # deflecto bat
-
-how to:
-works on all bats i think?
+swing at a projectile with most bats. if you have an issue use the stock bat :)
