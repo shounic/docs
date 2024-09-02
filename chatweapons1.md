@@ -1,5 +1,7 @@
 server info: connect 45.62.160.71:27999 (if it doesn't work then it means shounic didn't start the server yet. wait a sec!!)
 
+if you want to, you can share your opinion on a weapon in the survey https://forms.gle/vXU9E2xhCHrBbuXE9 it'll be interesting to see how the ratio of fun/not fun stacks up between all the weapons :)
+
 read the rest of the document for instructions on how to use each of the new weapons/mechanics.
 
 # gunboats demo
