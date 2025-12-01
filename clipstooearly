@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>document</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="/docs/assets/css/style.css?v=03af2ca2830413a94ea8d68e5b724cc1d714af67">
+  <style>
+  body p {
+    font-size: 20px !important;
+  }
+  body li {
+    font-size: 20px !important;
+  }
+</style>
+</head>
+<body>
+  <div class="container-lg px-3 my-5 markdown-body">
+    <p>website not up yet. come back on Dec 22nd 2025 :D</p>
+    
+  </div>
+</body>
