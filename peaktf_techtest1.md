@@ -7,7 +7,7 @@ how to play:
 5. extract the zip literally anywhere
 6. run (double click) ####click_me_to_start_game#### to start the game
 7. profit
-8. from the server browser join shounic's server or IP 169.254.121.121:5424
+8. from the server browser's internet tab join shounic's server
 
 tip:
 - this is a "fresh" installation of TF2 so everything is default. you may want to copy your cfg folder from TF2 into this
