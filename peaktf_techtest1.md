@@ -10,4 +10,5 @@ how to play:
 
 tip:
 - this is a "fresh" installation of TF2 so everything is default. you may want to copy your cfg folder from TF2 into this
+- [click this to see all weapon stats](https://docs.google.com/document/d/e/2PACX-1vSU1KNrPF8hUwCS-rCwWD1_RgCfRraHpiE8xRRLSRACcIxgurdIEpmKH0lTezQAnCE0_BOGo73rsrSj/pub)
 - no item set buffs
