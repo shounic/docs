@@ -1,4 +1,5 @@
 how to play:
+**(windows only. linux is not supported)**
 
 1. have Steam running
 2. install TF2 on Steam
