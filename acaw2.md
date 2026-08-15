@@ -1,6 +1,6 @@
 any class any weapon any slot (except spy and engineer, only they get to use build PDAs/sappers & watches.) also duplicate weapons are allowed
 
-we are bug testing
+this session is bug testing. if you have shadowplay, taking clips of bugs can help make fixing them easier :D
 
 how to play:
 
