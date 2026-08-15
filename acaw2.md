@@ -19,11 +19,12 @@ tip:
 
 
 **linux users:**
+
 **(if there are issues ask rjay or pizzaperp, i didn't write this)**
 >1. Download the sdk
 >2. open sdk properties on steam
 >3. go to compatibility and set it to any proton version (i use hotfix)
 >4. download the mod files and put in in a folder anywhere.
->5. add the mod_tf_win64.exe as a nonsteam game,
+>5. add the batch file ( ####click_me_to_start_game####) as a non-steam game
 >6. repeat the compatibility settings the same as with sdk.
 >7. the game should open
