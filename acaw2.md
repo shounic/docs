@@ -17,6 +17,9 @@ tip:
 - this is a "fresh" installation of TF2 so everything is default. you may want to copy your cfg folder from TF2 into this
 - no, equipping 3 gunslingers does not equal 3 mini sentries
 
+thanks:
+- krytoysmile (helped with dev)
+- vscript randomizer - Sedisocks, Diva Dan, Tianes & Lizard Of Oz (retargeted class animations)
 
 **linux users:**
 
