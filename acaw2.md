@@ -11,6 +11,7 @@ how to play:
 4. [download the acaw2 mod](https://cdn.discordapp.com/attachments/1263345589081341973/1538210060478709881/acaw2.7z?ex=6a81d940&is=6a8087c0&hm=0f4b46bf6b9821e38688bb2a4523efe8d1aed6401e7a72b176c6d7e414771a9a&)
 5. extract the zip literally anywhere
 6. run (double click) ####click_me_to_start_game#### to start the game
+6.5. if your game starts at a resolution that's too big, you can use small.bat instead
 7. from the server browser's internet tab join shounic's server
 
 tip:
