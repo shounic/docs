@@ -28,6 +28,6 @@ thanks:
 >2. open sdk properties on steam
 >3. go to compatibility and set it to any proton version (i use hotfix)
 >4. download the mod files and put in in a folder anywhere.
->5. add the batch file ( ####click_me_to_start_game####) as a non-steam game
+>5. add the batch file ( ####click_me_to_start_game####) as a non-steam game. if this doesn't work, try add the mod_tf_win64.exe instead and add the launch options in the batch file?
 >6. repeat the compatibility settings the same as with sdk.
 >7. the game should open
