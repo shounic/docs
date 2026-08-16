@@ -45,6 +45,12 @@ last loadout slot = leftmost
 
 eureka effect on non engies is activated by taunting
 
+1 eyelander = heads stack up to 4. 2 eyelanders = heads stack up to 8. 3 = 12. each head grants +15 hp and +8% speed (basically)
+
+heads remain shared between "heads weapons" as it is in the base game
+
+baby face ramps players to 520 hu/s. having multiple does not make your top speed higher
+
 the mantreads intentionally causes players to reference pose when they are stomping because people found it funny. do not report it as a bug please
 
 i added A/D hotkeys to the weapon selection list in your loadout cause the pages are so fucking long lol
