@@ -8,13 +8,18 @@ engineer building pickup and building placements will temporarily steal right cl
 
 shields are expended in the order you define them in loadout
 
-if you have your sticky launcher out, it will always detonate the set of stickies associated with the currently held gun, even if the currently held sticky launcher has no stickies associated with it. if you have no sticky launchers in hand, then it will detonate the first set of stickies it finds in the order defined in loadout (but essentially detonate all, because of a fix to sticky det speed...)
+if you have your sticky launcher out, it will always detonate the set of stickies associated with the currently held gun, even if the currently held sticky launcher has no stickies associated with it. if you have no sticky launchers in hand, then it will detonate the first set of stickies it finds in the order defined in loadout (but it executed really fast, so it basically detonates everything you have)
 
 this is the keybind priority list:
+
 #1 cloak
+
 #2 shield charge
+
 #3 stickybomb detonation
+
 #4 everything else (weapons that you pull out to secondary fire)
+
 
 ======= resupply takes a sec =======
 
@@ -31,7 +36,9 @@ medic's hud now depends on if you are using any of the 4 mediguns OR a crossbow.
 ======= item cooldown meters =======
 
 ordered right to left
+
 first loadout slot = rightmost 
+
 last loadout slot = leftmost
 
 ======= misc item stuff =======
