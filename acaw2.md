@@ -11,7 +11,8 @@ how to play:
 4. [download the acaw2 mod](https://cdn.discordapp.com/attachments/1263345589081341973/1538576719299215360/acaw2.7z?ex=6a832ebb&is=6a81dd3b&hm=a63dd1db9d93f54731a9810c1b25649355e8d43031112b494d29021e47c530e5&)
 5. extract the zip literally anywhere you want on your PC, ie the desktop
 6. run (double click) ####click_me_to_start_game#### to start the game (if your game is too zoomed in, you can use small.bat instead, then set the size manually in settings)
-7. from the server browser's internet tab join shounic's server
+7. from the server browser's internet tab join shounic's server.
+8. i cannot give you a IP because the server runs on steam SDR which will periodically randomly change IP address so there isn't a set one to give out. just check the server browser.
 
 tip:
 - this is a "fresh" installation of TF2 so everything is default. you may want to copy your cfg folder from TF2 into this
