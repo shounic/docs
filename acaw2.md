@@ -12,6 +12,8 @@ how to play:
 5. extract the zip literally anywhere you want on your PC, ie the desktop
 6. run (double click) ####click_me_to_start_game#### to start the game (if your game is too zoomed in, you can use small.bat instead, then set the size manually in settings)
 7. from the server browser's internet tab join shounic's server or `connect 45.62.160.71:27222`
+8. server will stay up between streams but will close on the last stream
+
 
 tip:
 - this is a "fresh" installation of TF2 so everything is default. you may want to copy your cfg folder from TF2 into this
