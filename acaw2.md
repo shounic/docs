@@ -8,7 +8,7 @@ if you have a cool build or clip post a video clip to [#experiment-clips](https:
 1. have Steam running
 3. install TF2 on Steam
 4. install [Source SDK Base 2013 Multiplayer](https://steamdb.info/app/243750/info/) on Steam (paste this into your browser: steam://install/243750) (or Tools section in the library, if that doesn't work)
-5. [download the acaw2 mod](https://cdn.discordapp.com/attachments/1263345589081341973/1539066098383724645/acaw2.7z?ex=6a84f680&is=6a83a500&hm=70b9e1e5681a05aff85b53c6a0f6d43288ec4ca52dd7fac1f15389ca5566275c&)
+5. [download the acaw2 mod.](https://cdn.discordapp.com/attachments/1263345589081341973/1539118632020222003/acaw2.7z?ex=6a85276d&is=6a83d5ed&hm=760606d04b81296192d51135371752a093d58408e8f1433cab8b074fa43fb428&) If you helped with bug testing, you may need to re-download: last updated 18th of August.
 6. extract the zip literally anywhere you want on your PC, ie the desktop
 7. run (double click) ####click_me_to_start_game#### to start the game (if your game is too zoomed in, you can use small.bat instead, then set the size manually in settings)
 8. from the server browser's internet tab join shounic's server or `connect 45.62.160.71:27222`
