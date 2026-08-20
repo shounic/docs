@@ -19,6 +19,10 @@ if you have a cool build or clip post a video clip to [#experiment-clips](https:
 tip:
 - this is a "fresh" installation of TF2 so everything is default. you may want to copy your cfg folder from TF2 into this
 
+troubleshooting:
+- if you have an launcher dll error it's probably because you're on the wrong sdk base 2013 multiplayer branch. make sure you're on "Default Public Version"
+- if you can't join because your class tables are different, re-download the mod and replace your existing files because it was updated since you last downloaded the mod. make sure to close the game before you replace files because you can't replace actively running files on windows
+
 thanks:
 - krytoysmile (helped with dev)
 - vscript randomizer - Sedisocks, Diva Dan, Tianes & Lizard Of Oz (retargeted class animations)
