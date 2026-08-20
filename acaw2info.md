@@ -43,9 +43,13 @@ last loadout slot = leftmost
 
 ======= misc item stuff =======
 
+equipping 3 gunslingers does not equal 3 mini sentries
+
 eureka effect on non engies is activated by taunting
 
 1 eyelander = heads stack up to 4. 2 eyelanders = heads stack up to 8. 3 = 12. each head grants +15 hp and +8% speed (basically)
+
+any resistances and items generally stack, ie multiple shields or shields with fist of steel, etc
 
 heads remain shared between "heads weapons" as it is in the base game
 
