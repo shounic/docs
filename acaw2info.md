@@ -43,6 +43,8 @@ last loadout slot = leftmost
 
 ======= misc item stuff =======
 
+speed cap has been (effectively) removed from the game
+
 equipping 3 gunslingers does not equal 3 mini sentries
 
 eureka effect on non engies is activated by taunting
