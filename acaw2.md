@@ -1,4 +1,4 @@
-# if you are reading this and the date is after Aug 20th then the server i host for this is offline (since it has been on zero players for 24 hours)
+### if you are reading this and the date is after Aug 20th then the server i host for this is offline (since it has been on zero players for 24 hours)
 
 any class any weapon any slot (except spy and engineer, only they get to use build PDAs/sappers & watches.) also duplicate weapons are allowed
 
